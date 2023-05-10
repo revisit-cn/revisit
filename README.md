@@ -1,2 +1,2 @@
 # Revisit
-Lightweight java rapid development framework based on spring
+Lightweight Java rapid Development Framework based on Spring
